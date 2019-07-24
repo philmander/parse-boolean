@@ -1,6 +1,6 @@
 {
   "name": "parse-boolean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bullet proof parseBoolean function. Determines if any value is meant to be a boolean",
   "main": "index.js",
   "scripts": {
