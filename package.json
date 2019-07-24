@@ -1,0 +1,24 @@
+{
+  "name": "parse-boolean",
+  "version": "1.0.0",
+  "description": "Bullet proof parseBoolean function. Determines if any value is meant to be a boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philmander/parse-boolean.git"
+  },
+  "keywords": [
+    "parse",
+    "boolean"
+  ],
+  "author": "Phil Mander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philmander/parse-boolean/issues"
+  },
+  "homepage": "https://github.com/philmander/parse-boolean#readme"
+}
